@@ -1,4 +1,4 @@
-# 🏦 API REST JAX-RS - Gestion de Comptes Bancaires
+# API REST JAX-RS - Gestion de Comptes Bancaires
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.7-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![Java](https://img.shields.io/badge/Java-17+-orange.svg)](https://www.oracle.com/java/)
